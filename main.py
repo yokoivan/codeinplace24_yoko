@@ -2,7 +2,8 @@ import os
 
 VERSION = 0.1
 # Made for the final project of Code in Place 2024
-# By Yoko Ivan - Connect with me on LinkedIn: linkedin.com/in/yokoivan2707
+# By Yoko Ivan 
+# Connect with me on LinkedIn: linkedin.com/in/yokoivan2707
 
 # Function for selection number 1 - to add prefix
 def operation_prefix(file_path):
